@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=data-analyst-lab&label=Profile%20views&color=0e75b6&style=flat" alt="data-analyst-lab" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sah-Akash&label=Profile%20views&color=0e75b6&style=flat" alt="Sah-Akash" /> </p>
 
 - 📫 How to reach me **akashsah17@gmail.com**
 
@@ -23,11 +23,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=data-analyst-lab&show_icons=true&locale=en&layout=compact" alt="data-analyst-lab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sah-Akash&show_icons=true&locale=en&layout=compact" alt="Sah-Akash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=data-analyst-lab&show_icons=true&locale=en" alt="data-analyst-lab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sah-Akash&show_icons=true&locale=en" alt="Sah-Akash" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/akashsah"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akashsah" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=data-analyst-lab&" alt="data-analyst-lab" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sah-Akash&" alt="Sah-Akash" /></p>
